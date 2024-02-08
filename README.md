@@ -23,37 +23,6 @@
 > **2022.09.29(월) ~ 2022.10.07(금)**
 
 <br>
-
-
-## 🐧 **팀원**
-<table>
- <tr>
-    <td align="center"><a href=""><img src="" alt=""></td>
-    <td align="center"><a href=""><img src="" alt=""></td>
-    <td align="center"><a href=""><img src=""  alt=""></td>
-    <td align="center"><a href=""><img src="" alt=""></td>
-    <td align="center"><a href="https://github.com/Jaehwany"><img src="https://avatars.githubusercontent.com/Jaehwany" width="80px;" alt=""></td>
-    <td align="center"><a href=""><img src="" alt=""></td>
-  </tr>
-  <tr>
-    <td align="center">팀장, Infra</td>
-    <td align="center">Frontend</td>
-    <td align="center">Frontend</td>
-    <td align="center">Solidity</td>
-    <td align="center">Backend</td>
-    <td align="center">Unity</td>
-  </tr>
-     <tr>
-    <td align="center"><a href="https://github.com/"><sub><b>이청</b></td>
-    <td align="center"><a href="https://github.com/"><sub><b>권성호</b></td>
-    <td align="center"><a href="https://github.com/"><sub>김채리</b></td>
-    <td align="center"><a href="https://github.com/"><sub><b>양요셉</b></td>
-    <td align="center"><a href="https://github.com/Jaehwany"><sub><b>이재환</b></td>
-    <td align="center"><a href="https://github.com/"><sub><b>한유빈</b></td>
-  </tr>
-
-</table>
-     
 <br>     
 
 ### 📍 PPT
