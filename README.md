@@ -1,8 +1,7 @@
 #  SAMALS - 멸종 위기 동물 보호를 위한 NFT 거래 플랫폼
 > **Save the Animals, SAMALS**
 
-
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<br/>
 
 ## 🐮 **Introduce**
 
